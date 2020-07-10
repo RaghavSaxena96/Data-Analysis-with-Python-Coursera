@@ -1,5 +1,10 @@
 # Data-Analysis-with-Python
-Data Analyzing techniques using Pandas and matplotlib
+
+Collection of ipynb files 
+
+1- Coursera Data Analysis with Python
+
+2-Data Analyzing techniques using Pandas and matplotlib
 
 Avocado Dataset-- https://www.kaggle.com/neuromusic/avocado-prices/
 
